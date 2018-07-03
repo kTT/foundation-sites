@@ -24,8 +24,8 @@ var webpackExternalPlugins = Object.assign(
   utils.umdExternals({
     // Import path                    | Exported file
     './foundation.core':              'foundation.core',
-    './foundation.core.utils':        'foundation.core',
-    './foundation.core.plugin':       'foundation.core',
+    './foundation.core.utils':        'foundation.core.utils',
+    './foundation.core.plugin':       'foundation.core.plugin',
     './foundation.util.imageLoader':  'foundation.util.imageLoader',
     './foundation.util.keyboard':     'foundation.util.keyboard',
     './foundation.util.mediaQuery':   'foundation.util.mediaQuery',

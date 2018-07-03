@@ -6,6 +6,7 @@ module.exports = {
   JS_FILES: [
     'js/foundation.core.js',
     'js/foundation.core.utils.js',
+    'js/foundation.core.plugin.js',
     'js/foundation.util.*.js',
     'js/*.js'
   ],
